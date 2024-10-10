@@ -2,3 +2,19 @@ body {
     background: white;
     color: black;
 }
+
+section {
+    background-color: rgb(26, 104, 97);
+    padding-bottom:  80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    margin-right: 20px;
+}
+
+.chamada-texto {
+    margin-right: 20px;
+}

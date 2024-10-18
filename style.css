@@ -2,7 +2,7 @@ body {
     background: white;
     color: black;
     margin: 0px;
-    font-family:"Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap",sans-serif
+    font-family: "Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap", sans-serif
 }
 
 header {
@@ -14,7 +14,7 @@ header {
 
 section {
     background-color: rgb(26, 104, 97);
-    padding-bottom:  80px;
+    padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
@@ -27,7 +27,7 @@ section {
     margin-right: 20px;
 }
 
-h1{
+h1 {
     font-size: 40px;
 }
 

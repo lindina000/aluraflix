@@ -2,7 +2,7 @@ body {
     background: white;
     color: black;
     margin: 0px;
-    font-family: "Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap", sans-serif
+    font-family: "Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap", sans-serif;
 }
 
 header {
@@ -32,13 +32,13 @@ h1 {
 p {
     font-size: 20px;
 }
- .categoria { 
+.categoria { 
     padding-left: 20px;
     padding-right: 20px;
     margin-top: 50px;
  }
 
-.categoria -videos {
+.categoria-videos {
     display:flex;
     overflow-x: auto ;
     gap: 10px;
